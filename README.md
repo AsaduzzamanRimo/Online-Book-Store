@@ -19,9 +19,6 @@
  * Admin panel
  * Report Generation
  
- **Other Contributor**
-
-[Rinkal Singh](https://github.com/Rk-niit)
 
  
  
